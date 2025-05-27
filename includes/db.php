@@ -1,8 +1,8 @@
 <?php
-$servername = "127.0.0.1";  
-$username = "root"; 
-$password = ""; 
-$database = "ta_cms"; 
+$servername = "sql12.freesqldatabase.com";  
+$username = "sql12781526"; 
+$password = "L7v8WNASlr"; 
+$database = "sql12781526"; 
 
 try {
     mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
